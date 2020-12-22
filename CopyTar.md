@@ -3,5 +3,5 @@
 ~~~
 #!/bin/sh
 zone=$(date +'%Y%m%d')
-tar -cvf destination path${zone}ECCF.tar source path
+tar -cvf DESTINATION_PATH${zone}ECCF.tar SOURCE_PATH
 ~~~
